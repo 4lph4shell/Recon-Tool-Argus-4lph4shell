@@ -64,8 +64,8 @@ Take a look at Argus in action:
 To get started with Argus, follow these simple steps:
 
 ```bash
-git clone https://github.com/jasonxtn/argus.git
-cd argus
+git https://github.com/4lph4shell/Recon-Tool-Argus-4lph4shell.git
+cd Recon-Tool-Argus-4lph4shell
 pip install -r requirements.txt
 ```
 
